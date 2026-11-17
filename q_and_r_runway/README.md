@@ -8,6 +8,22 @@ A deliberately small working space for the **Quick & Reckless (Q&R)** approach t
 
 **PPNN analogy:** Don't keep gold-plating the runway's lane markers when the goal is to fly. Equally important: build the small aircraft so it can operate without a perfect runway. The analogy is about choosing the right degree and location of engineering, **not** rejecting safety or correctness.
 
+## Two valid ways to get airborne
+
+The metaphor works in either direction:
+
+- **American approach:** Clean the runway so the aircraft doesn't need elaborate intake protection.
+- **Russian approach:** Engineer the aircraft to tolerate a dirty runway.
+- **PPNN approach:** Choose whichever requires less work to achieve a successful takeoff.
+
+The trap is simultaneously building titanium intake grates, conducting meticulous FOD sweeps, and gold-plating the runway markings—all before the first flight.
+
+**Don't minimize the complexity of an individual component. Minimize the complexity of the entire system needed to accomplish the objective.**
+
+That's a particularly good expression of Quick & Reckless: not careless, not necessarily crude, but *appropriately sufficient*.
+
+For PPNN, the objective is still beautifully modest: **one neuron, one genuine learning update, performed by hand.**
+
 ## Quick & Reckless (Q&R)
 
 The author learned the phrase **Quick & Reckless** at The OCD and Anxiety Treatment Center (TOATC), in an outpatient program. Here it is a practical antidote to over-preparation: make a sufficiently safe, reversible, inspectable attempt rather than continually preparing for one. Q&R does **not** mean skipping mathematical checks, risking harm, or treating mistakes as correct.
