@@ -46,6 +46,29 @@ Initial diagrams and physical exercises include:
 
 Some architecture drawings stop at the final neuron; others extend to the prediction parallelogram. Additional diagrams connect the prediction to the target, loss calculations, a vector of losses, and the cost \(J\).
 
+
+### Architecture illustrations (draft)
+
+These **README-specific illustrations** have an opaque white background so
+that the near-black outlines stay readable in both GitHub light and dark
+mode. They are illustrative reconstructions, not scans of the original
+laminated sheets or final canonical SVG exports.
+
+**One input → one neuron → prediction**
+
+![One input, one neuron, and prediction](docs/images/network_1_1_prediction_readme.svg)
+
+**Two inputs → one neuron → prediction**
+
+![Two inputs, one neuron, and prediction](docs/images/network_2_1_prediction_readme.svg)
+
+**3–4–2–1 network → prediction**
+
+![Three inputs, four then two hidden neurons, one output neuron, and prediction](docs/images/network_3_4_2_1_prediction_readme.svg)
+
+The editable working SVGs in Google Drive retain their transparent
+backgrounds. These white-backed illustrations are solely for README display.
+
 ## Physical toolkit and working method
 
 The physical materials include laminated sheets with writable boxes for intermediate values, and connector cards or strips that can join stages of the computation. The intent is to reuse parts rather than produce a separate fixed sheet for every network configuration. More complete diagrams can expose the internals of a neuron; compact diagrams show only the architecture.
