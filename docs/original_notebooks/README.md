@@ -1,6 +1,6 @@
 # Original Kindle Scribe notebooks
 
-This directory is intended to hold the **unaltered PDF exports** of the four
+This directory holds the **unaltered PDF exports** of the four
 handwritten notebooks for the [Paper–Pencil Neural Networks (PPNN)](../../README.md)
 project. They are primary working records, **not** polished tutorials or
 reconstructed SVG diagrams.
@@ -10,16 +10,22 @@ notebooks, including mistakes, revisions, detours, and unfinished material.
 
 ## Original exports
 
-The filenames below preserve the Kindle Scribe export names, including the
-2026-11-16 export timestamp suffixes. **The export timestamp is not the date
+The filenames below use consistent notebook numbering and preserve the
+2026-11-16 export timestamp suffixes. Notebooks 03 and 04 were renamed
+for consistency; their original export names are recorded below. **The export timestamp is not the date
 the notes were written.**
 
-| Notebook | Original PDF filename | Working-note period (approximate) |
+| Notebook | Archival PDF filename | Working-note period (approximate) |
 | --- | --- | --- |
 | 1 | `Main_Paper_Pencil_Neural_Network_Notebook_01-2026-11-16-17-05.pdf` | Feb–May 2024 |
 | 2 | `Main_Paper_Pencil_Neural_Network_Notebook_02-2026-11-16-17-08.pdf` | May–Jun 2024 |
-| 3 | `Main_Paper_Pencil_Neural_Network_03-2026-11-16-17-14.pdf` | Jun–Jul 2024 |
-| 4 | `Main_Paper_Pencil_Neural_Network_part_4-2026-11-16-17-21.pdf` | Oct 2024 |
+| 3 | `Main_Paper_Pencil_Neural_Network_Notebook_03-2026-11-16-17-14.pdf` | Jun–Jul 2024 |
+| 4 | `Main_Paper_Pencil_Neural_Network_Notebook_04-2026-11-16-17-21.pdf` | Oct 2024 |
+
+Original export names before the metadata-only renames:
+
+- `Main_Paper_Pencil_Neural_Network_03-2026-11-16-17-14.pdf`
+- `Main_Paper_Pencil_Neural_Network_part_4-2026-11-16-17-21.pdf`
 
 The periods are broad orientation only. Use the dates written on the actual
 pages for precise chronology.
@@ -33,7 +39,7 @@ The original PDFs are also in the
 - [Notebook 01](https://drive.google.com/file/d/1rAUW0wXk9PtyAXAhtrtFFA0ucpnYCqXe/view)
 - [Notebook 02](https://drive.google.com/file/d/1Po1ATuZ3ijAyIE70JQRARfA6FNM9PzbT/view)
 - [Notebook 03](https://drive.google.com/file/d/1bNbojZt5efDsjSn27wEJps1ZuWJ4yMG4/view)
-- [Notebook Part 4](https://drive.google.com/file/d/1I7Dz9lqxgX-2Kns6Ye7K_4ox_uXSxffr/view)
+- [Notebook 04](https://drive.google.com/file/d/1I7Dz9lqxgX-2Kns6Ye7K_4ox_uXSxffr/view)
 
 ## How to read these sources
 
@@ -63,9 +69,9 @@ the earliest PPNN artifacts. Later laminated sheets, scanned photographs,
 and reconstructed SVGs are separate source classes and should retain
 their own provenance.
 
-**Repository status:** This README may appear on a review branch before
-the PDF binaries are added. Verify the four PDFs are present in this directory
-before treating the GitHub repository as a complete public mirror.
+**Repository status:** All four PDF filenames were verified in the
+review branch on 2026-11-26. The PDFs are the author-uploaded exports;
+independent binary checksum comparison against Drive has not been performed.
 
 ---
 
